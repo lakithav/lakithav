@@ -2,7 +2,6 @@
 
 Computer Engineering Undergraduate at University of Ruhuna  
 Aspiring Machine Learning Engineer  
-Sri Lanka  
 
 ---
 
